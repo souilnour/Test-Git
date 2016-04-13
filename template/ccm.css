@@ -3,14 +3,15 @@ html {
 	width: 100%;
 }
 body {
-	margin: 6px;
+	margin: 0px;
+	background-color: #8800ff;
 }
 #container {
 	margin: auto;
 	padding: 0px;
 	height: auto;
 	width: 960px;
-	background-color: #FFFFFF;
+	background-color: #88ff00;
 	text-align: left;
 	font-family: "Century Gothic", Century, Verdana, Geneva, sans-serif;
 	font-size: 1.2em;
