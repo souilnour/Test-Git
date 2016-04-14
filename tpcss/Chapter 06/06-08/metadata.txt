@@ -1,0 +1,16 @@
+<head profile="http://www.w3.org/2005/10/profile"> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Cupcake Mary :: Delicious organic cupcakes to celebrate life's special moments</title>
+<meta name="Keywords" content="cupcakes, organic, new york, new york city, Brooklyn, fresh, bakery" />
+<meta name="Description" content="Cupcake Mary :: Delicious organic cupcakes to celebrate the special and ordinary moments in your life" />
+<meta name="Publisher" content="Cupcake Mary" />
+<meta name="Copyright" content="Copyright 2012, Cupcake Mary. All rights reserved." />
+<meta name="Author" content="Cupcake Mary" />
+<meta name="Language" content="en-US" />
+<meta name="distribution" content="global" />
+<meta name="revisit-after" content="10 days" />
+<meta name="Robots" content="All" />
+<link rel="Shortcut Icon" href="favicon.ico" />
+<link rel="icon" type="image/png" href="http://www.cupcakemary.com/images/favicon.png">
+<link rel="Index" href="index.html" />
+<link rel="Site Map" href="sitemap.html" />

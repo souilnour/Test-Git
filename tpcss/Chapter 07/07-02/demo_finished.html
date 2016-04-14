@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Yummi Cakes - AP Elements Demo</title>
+<style type="text/css">
+body   {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:100%;
+}
+
+p {font-size:1em;}  /* displayed at 12px */
+h1 {font-size:1.5em;}  /* displayed at 18px */
+h2 {font-size:1em; font-weight: bold;}  /* displayed at 12px */
+
+#apDiv1 {
+	position:absolute;
+	width:680px;
+	height:330px;
+	z-index:1;
+	left: 9px;
+	top: 162px;
+	border: 3px dotted #999;
+}
+#apDiv2 {
+	position:absolute;
+	width:170px;
+	height:265px;
+	z-index:1;
+	left: 9px;
+	top: 13px;
+	background-color: #FCB040;
+}
+#apDiv3 {
+	position:absolute;
+	left:234px;
+	top:13px;
+	width:170px;
+	height:265px;
+	z-index:2;
+	background-color: #86D0C6;
+}
+#apDiv4 {
+	position:absolute;
+	left:458px;
+	top:13px;
+	width:170px;
+	height:265px;
+	z-index:3;
+	background-color: #FCE89A;
+}
+.couponbox {
+	border: 7px dashed #000;
+	padding: 15px;
+	color: #000;
+	font-weight: bold;
+	text-align: center;
+	font-size: 18px;
+	background-image: url(images/couponbg.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+</style>
+</head>
+
+<body>
+<p><img src="images/logo.png" width="399" height="86" alt="Yumi Cakes" /></p>
+<h2>Print these coupons  for extra yummi savings!</h2>
+<div id="apDiv1">
+<div class="couponbox" id="apDiv2">
+  <p>Get $2 Off on Purchase of Any Dozen Cupcakes</p>
+  <p>&nbsp;</p>
+</div>
+<div class="couponbox" id="apDiv3">
+  <p>Free Coffee with Purchase of Any Cupcake Mary Bakery Item</p>
+  <p>&nbsp;</p>
+</div>
+<div class="couponbox" id="apDiv4">
+  <p>Buy One,<br />
+  Get One Free!<br />
+  Any  Item<br />
+  Really!</p>
+  <p><br />
+  </p>
+</div></div>
+</body>
+</html>
