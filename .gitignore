@@ -1,12 +1,12 @@
 # Comment
-hooks/
-info/
-objects/
-refs/
-config
-HEAD
-tatus
-description  
+*hooks
+*info
+*objects
+*refs
+*config
+*HEAD
+*tatus
+*description  
 *.zip
 *.gz
 log/*.log
